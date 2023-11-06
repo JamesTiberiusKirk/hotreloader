@@ -1,6 +1,6 @@
 module github.com/JamesTiberiusKirk/hotreloader
 
-go 1.21.3
+go 1.21
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0
