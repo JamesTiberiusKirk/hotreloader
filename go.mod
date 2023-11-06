@@ -1,6 +1,6 @@
-module github.com/JamesTiberiusKirk/webhotreloading
+module github.com/JamesTiberiusKirk/hotreloader
 
-go 1.21.2
+go 1.21.3
 
 require (
 	github.com/fsnotify/fsnotify v1.7.0
