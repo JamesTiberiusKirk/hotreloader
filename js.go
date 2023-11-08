@@ -1,4 +1,4 @@
-package hotreloading
+package hotreloader
 
 const hotreloadingJSTemplate = `
 			<script>
